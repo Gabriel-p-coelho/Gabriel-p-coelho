@@ -64,15 +64,6 @@
 - 🐍 **[Projeto-Python](https://github.com/Gabriel-p-coelho/Projeto-Python)** — Fundamentals of Algorithms coursework project
 - ☕ **[Projeto_arq_soft](https://github.com/Gabriel-p-coelho/Projeto_arq_soft)** — Software Architecture and OOP project
 
----
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Gabriel-p-coelho&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gabriel-p-coelho&layout=compact&theme=default" alt="Top languages" height="165"/>
-</p>
-
----
 
 <p align="center"><i>Obrigado pela visita! / Thanks for visiting! ⭐</i></p>
