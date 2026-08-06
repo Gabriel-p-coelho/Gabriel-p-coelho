@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋 / Hi, I'm Gabriel 👋</h1>
+<h1 align="center">Olá, eu sou o Gabriel  / Hi, I'm Gabriel </h1>
 
 <p align="center">
   <a href="#pt">🇧🇷 Português</a> •
