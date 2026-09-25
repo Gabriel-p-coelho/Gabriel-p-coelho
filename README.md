@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-gabrielp.netlify.app/" target="_blank">🌐 Portfólio / Portfolio</a> •
+  <a href="https://portfoliogabrielpacioni.netlify.app/" target="_blank">🌐 Portfólio / Portfolio</a> •
   <a href="https://www.linkedin.com/in/gabriel-pacioni-coelho-b73168310" target="_blank">💼 LinkedIn</a>
 </p>
 
@@ -46,7 +46,7 @@
 - 🎓 Computer Science student
 - 💻 Currently working on Algorithms and Software Architecture / OOP projects
 - 🌱 Always learning new technologies and development best practices
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gabriel-pacioni-coelho-b73168310) | [Portfolio](https://portfolio-gabrielp.netlify.app/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gabriel-pacioni-coelho-b73168310) | [Portfolio](https://portfoliogabrielpacioni.netlify.app/)
 
 ### 🛠️ Technologies & Tools
 
